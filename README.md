@@ -1,6 +1,6 @@
 # work-space
 
-New to Git...  I'm out of school and attempting to build a production application, or an environment to run many applications.  As I stumble across new subjects  I will post to this repository brief.  Or I will at least post a brief description of a resource and a link to an external site.  e.g. nginx is an http server that is capable of reverse proxy.  Use this to delegate traffic to and from web applications built for customers.  Documentation may be found at https://www.nginx.com/resources/wiki/.  
+New to Git...  I'm out of school and attempting to build and host a production application .  As I stumble across new subjects  I will post to this repository a brief summary and link.  e.g. nginx is an http server that is capable of reverse proxy.  Use this to delegate traffic to and from web applications built for customers.  Documentation may be found at https://www.nginx.com/resources/wiki/.  
 
 Programs and Software of Interest:
 * Ubuntu Sever 16.04 - For now this is the server of choice for my applications.  The server edition of ubuntu is my prime choice because it does not have a graphical user interface.  Documentation about the ubuntu server may be found at https://help.ubuntu.com/lts/serverguide/.
