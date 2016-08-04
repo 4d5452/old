@@ -1,0 +1,13 @@
+# Start mongod instance with auth. enabled and config file passed...
+#this needs to be run in a background process...
+mongod --auth --config /etc/mongod.conf
+
+# With mongod running in another process (terminal)
+mongo --host localhost --shell ./startup.js
+
+#if the script was loaded, run createAdminUser() from the mongo shell...
+#  now exit.
+
+#to login again use the following command:
+mongo admin -u admin -p
+#This will open the shell for user admin against the admin db and prompt user for passwd.
